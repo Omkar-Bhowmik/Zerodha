@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.nav-link{
+  margin-left: 40px;
+}
+
+.support-hero {
+  background: #387ed1;
+  color: #fff;
+}
+
+.support-hero .form-control {
+  max-width: 720px;
+}
